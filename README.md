@@ -1,5 +1,5 @@
 ### Description.pdf
-실험 분석 보고서
+실험 설명  보고서
 
 ### block_log_lkm.c
 리눅스 커널 모듈 소스 코드.
