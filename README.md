@@ -17,4 +17,4 @@ f2fs 실험에 대한 raw data
 ext4 실험을 위해 수정한 blk-core 파일. blk-core_modified.c는 수정한 부분에 대한 코드
 
 # /f2fs
-f2fs 실험을 위해 수정한 blk-core 파일. blk-core_modified.c는 수정한 부분에 대한 코에드
+f2fs 실험을 위해 수정한 blk-core 파일. blk-core_modified.c는 수정한 부분에 대한 코드
